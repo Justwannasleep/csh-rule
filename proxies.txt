@@ -2,3 +2,4 @@ payload:
   - '+.qinkan.cc'
   - '+.154.84.5.250'
   - '+.18comic.vip'
+  - '+.lostlife.club'
