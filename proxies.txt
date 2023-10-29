@@ -7,3 +7,4 @@ payload:
   - 'qooqooqoo.xyz'
   - '+.*yydstxt*.com'
   - '+.ssrvps.org'
+  - '+.codein.icu'
