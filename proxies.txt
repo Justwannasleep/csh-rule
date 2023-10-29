@@ -5,4 +5,4 @@ payload:
   - '+.lostlife.club'
   - '+.qooqooqoo.xyz'
   - 'qooqooqoo.xyz'
-  - '+.99yydstxt226.com'
+  - '+.*yydstxt*.com'
