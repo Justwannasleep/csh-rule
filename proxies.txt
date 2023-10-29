@@ -6,3 +6,4 @@ payload:
   - '+.qooqooqoo.xyz'
   - 'qooqooqoo.xyz'
   - '+.*yydstxt*.com'
+  - '+.ssrvps.org'
