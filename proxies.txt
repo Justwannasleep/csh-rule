@@ -11,3 +11,4 @@ payload:
   - 'wxf2088.xyz'
   - 'www.1yydstxt234.com'
   - 'www.99yydstxt426.com'
+  - 'ddys.pro'
