@@ -12,3 +12,4 @@ payload:
   - 'www.1yydstxt234.com'
   - 'www.99yydstxt426.com'
   - 'ddys.pro'
+  - '+.opensubtitles.com'
