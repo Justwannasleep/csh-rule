@@ -14,3 +14,4 @@ payload:
   - 'ddys.pro'
   - '+.opensubtitles.com'
   - '+.154.84.5.250'
+  - 'forum.jellyfin.org'
